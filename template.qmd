@@ -1,0 +1,4 @@
+---
+title: "Clean PDF Notebook"
+format: CleanPDF-pdf
+---
